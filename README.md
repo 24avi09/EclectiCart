@@ -1,0 +1,2 @@
+# EclectiCart
+E-Commerce website.
